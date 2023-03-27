@@ -8,6 +8,8 @@
 		margin: 10,
 		nav: true,
 		pagination: true,
+		autoplay: true,
+		autoplayTimeout: 1500,
 		responsive: {
 			0: {
 				items: 2
@@ -16,7 +18,7 @@
 				items: 2
 			},
 			1000: {
-				items: 3
+				items: 4
 			}
 		}
 	})
