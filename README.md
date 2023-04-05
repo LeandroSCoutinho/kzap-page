@@ -1,6 +1,7 @@
 ## Kzap-page
 
 Protótipo de landing page para uma plataforma de atendimento pelo whatsapp.
+O objetivo é apresentar a plataforma e seus recursos para potenciais clientes.
 
 ## Tecnologias
 
